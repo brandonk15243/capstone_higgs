@@ -1,0 +1,11 @@
+label,categ_name,sigma_cb,bin_width,bin_width_given,fwhm
+1,"Unconv. central, low p_{Tt}",1.45,4,2,3.41
+2,"Unconv. central, high p_{Tt}",1.37,12,4,3.22
+3,"Unconv. rest, low p_{Tt}",1.57,3,1,3.71
+4,"Unconv. rest, high p_{Tt}",1.43,7,2,3.36
+5,"Conv. central, low p_{Tt}",1.63,5,2,3.84
+6,"Conv. central, high p_{Tt}",1.48,14,4,3.48
+7,"Conv. rest, low p_{Tt}",1.79,3,1,4.23
+8,"Conv. central, high p_{Tt}",1.61,7,2,3.8
+9,Conv. transition,2.27,4,1,5.52
+10,2-jet,1.52,13,4,3.59
